@@ -6,6 +6,7 @@ const form = document.querySelector('.form');
 const input = document.querySelector('.input_search');
 const buttonPrev = document.querySelector('.btn-prev');
 const buttonNext = document.querySelector('.btn-next');
+const buttonSearch = document.querySelector('.btn-search');
 
 let unknownPokemon = '/images/unknown.png';
 let searchPokemon = 1;

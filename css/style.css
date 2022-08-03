@@ -51,11 +51,11 @@ main {
     position: absolute;
     width: 65%;
     top: 65%;
-    left: 13.5%;
+    left: 6.5%;
 }
 
 .input_search {
-    width: 100%;
+    width: 84.5%;
     padding: 4%;
     outline: none;
     border: 2px solid #333;
@@ -91,4 +91,15 @@ main {
 .button:active {
     box-shadow: inset -3px 4px 0 #222;
     font-size: 0.9rem;
+}
+
+.btn-search {
+    position: absolute;
+    left: 95.9%;
+    width: 15.6%;
+    padding: 1%;
+}
+
+.btn-search:active {
+    width: 15%;
 }
